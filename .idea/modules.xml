@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/maze/maze.iml" filepath="$PROJECT_DIR$/maze/maze.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/mazejar.iml" filepath="$PROJECT_DIR$/.idea/mazejar.iml" />
-    </modules>
-  </component>
-</project>
